@@ -1,8 +1,9 @@
 {
-  "name": "complete-react-course",
+  "name": "e-co",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "node-sass": "^4.14.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
@@ -21,5 +22,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "repository": "git@github.com:livingTheDream93/e-commerce.git",
+  "author": "Ayush Sinha <toayushofficial@gmail.com>",
+  "license": "MIT"
 }
